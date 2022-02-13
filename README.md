@@ -27,6 +27,8 @@
 
 ## Show your support
 
-Give a ⭐️ to support the project! Thank you!
+Give a ⭐️ to support the project!
+
+<img alt="Star" src="https://cdn.axtonprice.com/img/JLyh4207K.png">
 
 ***

@@ -14,7 +14,7 @@
 
 ## Development
 
-* This organization profile has been created so you can keep track of updates in the development of the project. See the development tracker [here](https://github.com/intrevise/development-tracker). You can also watch the project, to recieve notifications of updates.
+* This organization profile has been created so you can keep track of updates in the development of the project. See the development tracker [here](https://github.com/intrevise/development-tracker). You can also watch the project, to recieve custom notifications when updates are made.
 
 <img src="https://cdn.axtonprice.com/img/HgcTKbVkD.png" alt="Watch">
 

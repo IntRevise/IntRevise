@@ -7,6 +7,11 @@
 
 ### 🏠 [Homepage](https://intrevise.co.uk)
 
+## What is it?
+
+* The best way to show your knowledge in lessons, and ace those exams. With the live quizzes being tailored specifically to the GCSE curriculum, you have no need to worry about wasting time with difficult to understand and unnecessary content!
+* Start learning now, and find fun in your revision. Expanding your knowledge, without the boredom!
+
 ## Author
 
 👤 **axtonprice, masondq**
@@ -16,6 +21,6 @@
 
 ## Show your support
 
-Give a ⭐️ if this project helped you!
+Give a ⭐️ to support the project! Thank you!
 
 ***

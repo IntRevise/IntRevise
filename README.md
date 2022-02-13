@@ -3,7 +3,7 @@
   <img alt="Version" src="https://img.shields.io/badge/version-v1.0.8-blue.svg?cacheSeconds=2592000" />
 </p>
 
-> The UK's Perfect Revision Platform
+> The UK's Perfect Live Quiz Classroom Revision Platform
 
 ### 🏠 [Homepage](https://intrevise.co.uk)
 
